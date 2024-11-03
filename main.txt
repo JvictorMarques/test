@@ -2,4 +2,5 @@ Main
 Nova linha main
 nova linha remoto
 Alteracao nuvem
+Conflitando
 Testando
